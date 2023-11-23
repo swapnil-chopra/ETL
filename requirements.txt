@@ -1,0 +1,4 @@
+elasticsearch
+psycopg2
+fastparquet
+kafka-python

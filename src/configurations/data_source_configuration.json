@@ -1,0 +1,14 @@
+{
+    "source_type": "single",
+    "source": [
+        "excel"
+    ],
+    "source_config": {
+        "source_path": "P:/Projects/ETL Projects/Amazon Data Warehousing/Dataset/Amazon Sales FY2020-21.csv",
+        "source_host": "",
+        "source_port": "",
+        "source_db_name": "",
+        "source_db_username": "",
+        "source_db_password": ""
+    }
+}
